@@ -2,14 +2,15 @@
 
 Screen Shots 
 
-![](https://drive.google.com/file/d/17fcufXaTmTEXs22_G2TUznotG1HlRI7b/view?usp=sharing)
+<img src="https://github.com/Nachiket497/Music_Player/blob/main/MusicPlayer0.iml.jpg" alt="drawing" width="200"/>
 
-![](https://drive.google.com/file/d/17_QaAWUWBhbSiwOirZ3C-uC00ttUuwWQ/view?usp=sharing)
+<img src="https://github.com/Nachiket497/Music_Player/blob/main/MusicPlayer.png" alt="drawing" width="200"/>
 
-![](https://drive.google.com/file/d/17e8ADbOzjoKRTn7Ir9AxZHw3Zqch2SUU/view?usp=sharing)
+<img src="https://github.com/Nachiket497/Music_Player/blob/main/MusicPlayer2.png" alt="drawing" width="200"/>
 
-![](https://drive.google.com/file/d/17ZnTwYGWqYIYi_i9LwQUbauYWjduUoA7/view?usp=sharing)
+<img src="https://github.com/Nachiket497/Music_Player/blob/main/MusicPlayer3.png" alt="drawing" width="200"/>
 
+<img src="https://github.com/Nachiket497/Music_Player/blob/main/MusicPlayer4.png" alt="drawing" width="200"/>
 
 
 
