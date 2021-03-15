@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:orientation="vertical" android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:id="@+id/linearLayout">
+
+    <ImageView
+        android:id="@+id/noti_s_cover"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:alpha="0.6" />
+
+    <TextView
+    android:id="@+id/song_name_title"
+    style="@style/TextAppearance.Compat.Notification.Title"
+    android:layout_width="422dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="0dp"
+    android:text="No Song is Playing"
+    android:textAlignment="center" />
+
+    <ImageButton
+        android:id="@+id/noti_n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/song_name_title"
+
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="60dp"
+        android:text="Button" />
+
+    <ImageButton
+        android:id="@+id/noti_p"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/song_name_title"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="30dp"
+        android:text="Button" />
+
+    <ImageButton
+        android:id="@+id/noti_pl"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/song_name_title"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="39dp"
+        android:layout_toStartOf="@+id/noti_n"
+        android:layout_toEndOf="@+id/noti_p"
+        android:text="Button" />
+
+
+</RelativeLayout>
